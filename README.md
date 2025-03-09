@@ -56,7 +56,7 @@ To get this project up and running locally, follow these steps:
    ```bash
    npm start
    ```
-Your site should now be live at http://localhost:3000!
+   Your site should now be live at http://localhost:3000!
 
 ## Contributing
 
