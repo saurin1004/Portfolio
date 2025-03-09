@@ -16,7 +16,6 @@ function AboutCard() {
             <li>Completed Undergrad in Computer Science and Engineering from Nirma University, India.</li>
           </ul>
             <br />
-            <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
