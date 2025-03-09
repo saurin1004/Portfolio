@@ -15,7 +15,6 @@ function AboutCard() {
             <li>Currently pursuing a Master's in Computer Science at Arizona State University.</li>
             <li>Completed Undergrad in Computer Science and Engineering from Nirma University, India.</li>
           </ul>
-            <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
