@@ -21,9 +21,9 @@ function Home2() {
             <p className="home-about-body">
               I am passionate about technology and problem-solving.
               <br />
-              <br />I am fluent in
+              <br />I am fluent in classics like
               <i>
-                <b className="purple"> Python, JavaScript, C++, Java, and SAS. </b>
+                <b className="purple"> Java, Python, C++, and SAS. </b>
               </i>
               <br />
               <br />

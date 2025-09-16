@@ -10,24 +10,22 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Saurin Prajapati </span>
             from <span className="purple"> Tempe, AZ, USA.</span>
-            <br />
-            I am currently pursuing MS in CS at Arizona State University.
-            <br />
-            I have completed B.Tech in Computer Science and Engineering from Nirma University
-            India.
-            <br />
-            <br />
+            <br /><br />
+           <ul>
+            <li>Currently pursuing a Master's in Computer Science at Arizona State University.</li>
+            <li>Completed Undergrad in Computer Science and Engineering from Nirma University, India.</li>
+          </ul>
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Volleyball
             </li>
             <li className="about-activity">
               <ImPointRight /> Reading Light Novels, Books, and Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching random Movies
+              <ImPointRight /> Travelling
             </li>
           </ul>
 
